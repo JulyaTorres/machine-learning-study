@@ -1,0 +1,16 @@
+# Materiais da professora
+supervised-learning/professor-notes.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Variáveis de ambiente e credenciais
+.env
+
+# Jupyter
+.ipynb_checkpoints/
